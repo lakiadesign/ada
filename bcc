@@ -1,8 +1,7 @@
 {
   "name": "BoomChickaCoin",
-  "ticker": "BOOM",
+  "ticker": "BCC",
   "description": "No Description",
   "homepage": "https://www.boomchickacoin.com",
-  "nonce": "1618882430",
-  "extended": "https://www.boomchickacoin.com/extended.json"
+  "nonce": "1618971370"
 }
